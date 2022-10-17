@@ -23,3 +23,4 @@ projects) in your projects, crediting me is appreciated.
 ## Spaghetti Sauce Project
 
 This project is part of the [Spaghetti Sauce Project](https://github.com/Chainfire/spaghetti_sauce_project).
+[![](https://jitpack.io/v/eu.chainfire/librootjava.svg)](https://jitpack.io/#eu.chainfire/librootjava)
